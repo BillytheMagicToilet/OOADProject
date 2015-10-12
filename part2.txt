@@ -15,6 +15,9 @@ Requirements:
 		Different spacecrafts and health
 		User can pause game	
 		Keep track of high scores
+		User choose Play, Check High Score, or Exit from title screen
+		User enters high score name, exits, or replays on end screen
+
 
 	Non-Functional
 		Include a readme for useability/user controls
@@ -29,5 +32,11 @@ Use Cases:
 Activity Diagram- pause functionaility
 
 Data Storage- ArrayList for missiles, easy to add/remove from in Java
+	-High scores saved in text file
+
+UIi mockup- Draw it up....
+	Title screen with: Play, High Scores, Exit
+	Game play sreen with: Score, Lives, ships flying around
+
 
 
